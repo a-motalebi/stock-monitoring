@@ -13,4 +13,4 @@ $ docker-compose up
 The app will be running on [http://localhost:8050](http://localhost:8050)  
 
 
-![dash](design.jpg)
+![dash](https://github.com/a-motalebi/stock-monitoring/blob/master/design.jpg?raw=true)
